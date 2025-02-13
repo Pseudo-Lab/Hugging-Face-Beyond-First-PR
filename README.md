@@ -28,8 +28,8 @@
 ## 🌟 Project Vision
 _"Beyond First PR"_  
 - Contribute directly to Hugging Face and its ecosystem through hands-on coding!
-- Improve various Hugging Face libraries, such as transformers, smolagent, and more!
-- Expand contributions beyond Hugging Face libraries to external dependencies like LangChain, MLflow, llama.cpp, and others!
+- Improve various Hugging Face libraries, such as `transformers`, `smolagent`, and more!
+- Expand contributions beyond Hugging Face libraries to external dependencies like `LangChain`, `MLflow`, `llama.cpp`, and others!
 
 
 ## 🧑 Team
@@ -43,10 +43,10 @@ _"Beyond First PR"_
 ## 🚀 Project Roadmap
 ```mermaid
 gantt
-    title S10 Project Journey - Aligned with Development Culture
+    title S10 Project Journey
     section Core Milestones
     Onboarding & Initial Setup          :a1, 2025-02-23, 22d
-    Weekly Sync & Code Review            :a2, after a1, 30d
+    Core Code Review(Transformers, SmolAgent)            :a2, after a1, 30d
     Major Contribution Phase             :a3, after a2, 30d
     Advanced Contribution & Deep Dives   :a4, after a3, 30d
     section Additional Activities
@@ -61,7 +61,7 @@ gantt
 class CollaborationFramework:
     def __init__(self):
         self.tools = {
-            'communication': 'Discord', 'Notion',
+            'communication': 'Google Meet', 'Notion',
             'documentation': 'Notion',
             'version_control': 'GitHub Projects'
         }
