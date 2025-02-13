@@ -37,20 +37,22 @@ _"Beyond First PR"_
 | Role          | Name | Key Areas of Interest                          |
 |---------------|------|----------------------------------------|
 | **Project Manager** | Yijun Lee | Generative AI, Drug Discovery             |
-| **Project Manager** | Evan Han | 데이터 파이프라인 설계                  |
+| **Project Manager** | Evan Han | Generative AI, Quantization                   |
 
 
 ## 🚀 Project Roadmap
 ```mermaid
 gantt
-    title 2025 AI 프로젝트 여정
-    section 핵심 마일스톤
-    이론 연구       :a1, 2025-09-01, 30d
-    MVP 개발        :a2, after a1, 45d
-    프로덕션 적용    :a3, after a2, 30d
-    section 부가 활동
-    기술 세미나     :2025-10-15, 7d
-    해커톤         :2025-11-20, 3d
+    title S10 Project Journey - Aligned with Development Culture
+    section Core Milestones
+    Onboarding & Initial Setup          :a1, 2025-02-23, 22d
+    Weekly Sync & Code Review            :a2, after a1, 30d
+    Major Contribution Phase             :a3, after a2, 30d
+    Advanced Contribution & Deep Dives   :a4, after a3, 30d
+    section Additional Activities
+    Pseudo-Con Preparation               :b1, 2025-05-03, 14d
+    Pseudo-Con                           :b2, after b1, 8d
+    Season Wrap-up & Retrospective       :2025-06-14, 10d
 ```
 
 
@@ -59,15 +61,16 @@ gantt
 class CollaborationFramework:
     def __init__(self):
         self.tools = {
-            'communication': 'Discord', 'Notion'
-            'documentation': 'Notion'
+            'communication': 'Discord', 'Notion',
+            'documentation': 'Notion',
+            'version_control': 'GitHub Projects'
         }
     
     def workflow(self):
-        return """주간 사이클:
-        1️⃣ 월요일: 스프린트 플래닝 (Notion 타임라인 공유)
-        2️⃣ 수요일: 코드 리뷰 세션 (Live Share)
-        3️⃣ 금요일: 데모데이 (실제 적용 사례 발표)"""
+        return """Weekly Workflow:
+        1️⃣ Meeting (Monday, 9 PM): Review weekly progress and share updates
+        2️⃣ To-Do: Discuss and align on tasks for the week
+        3️⃣ Contributions & Code Review: Work on contributions and review code"""
 ```
 
 
