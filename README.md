@@ -1,6 +1,8 @@
-# Hugging Face Beyond First PR
+<div align="center">
+<img src="https://github.com/user-attachments/assets/50b10143-49c7-48b3-88f7-433e1aad4fb3" width="500">
+</div>
 
-<h1 align="center"> Hugging Face Beyond First PR </h1>
+<h1 align="center"> 🤗 Hugging Face Beyond First PR </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
