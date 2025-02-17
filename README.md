@@ -96,6 +96,7 @@ class CollaborationFramework:
 
 ## 🌱 How to Engage
 **To join as a team member, please apply during the runner recruitment period.**  
+**If possible, please write about which library you want to contribute to and what kind of contributions you’d like to make. (Optional)**
 - Link (Coming soon)
 
 ## Acknowledgement 🙏
