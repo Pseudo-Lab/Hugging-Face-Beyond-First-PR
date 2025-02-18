@@ -103,8 +103,6 @@ class CollaborationFramework:
 - **Online: Room-GH, every Monday at 9:00 PM**
 - **The first meeting (March 10th) may be held in person, scheduled for 9:00 PM**
 
----
-
 ## 💡 Learning Resources  
 - [First Contributions](https://github.com/firstcontributions/first-contributions): A beginner-friendly guide to making your first open-source contribution  
 - [Transformers (GitHub)](https://github.com/huggingface/transformers): Hugging Face's state-of-the-art library for NLP and beyond  
