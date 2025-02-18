@@ -98,7 +98,12 @@ class CollaborationFramework:
 - **Implemented auth_check** [#2497](https://github.com/huggingface/huggingface_hub/pull/2497) *(Hugging Face Hub)*  
 - **Define Error** [#2444](https://github.com/huggingface/huggingface_hub/pull/2444) *(Hugging Face Hub)*  
 
+## 😊 Activity Schedule
 
+- **Online: Room-GH, every Monday at 9:00 PM**
+- **The first meeting (March 10th) may be held in person, scheduled for 9:00 PM**
+
+---
 
 ## 💡 Learning Resources  
 - [First Contributions](https://github.com/firstcontributions/first-contributions): A beginner-friendly guide to making your first open-source contribution  
