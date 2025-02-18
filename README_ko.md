@@ -35,6 +35,21 @@ _"Beyond First PR"_
 
 ---
 
+## Hugging Face KREW
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d1d5b315-a670-46a6-ab5e-3201b394fa30" width="200">
+</div>
+
+**Hugging Face KREW**는 **가짜연구소의 리서치 팀**으로, Hugging Face와 관련된 다양한 스터디 및 기여 활동을 진행하는 커뮤니티입니다. 🤗  
+이번 **10기**에서는 다음과 같은 프로젝트를 진행합니다.  
+- [**Hugging Face Beyond First PR**](https://github.com/Pseudo-Lab/Hugging-Face-Beyond-First-PR?tab=readme-ov-file)  
+- [**Hugging Face Hub Garden**](https://github.com/Pseudo-Lab/Hugging-Face-Hub-Garden)
+- [**Hugging Face 쿡북 요리사**](https://github.com/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars)
+
+Hugging Face KREW에 대해 더 알고 싶다면 [여기](https://calm-book-46f.notion.site/Hugging-Face-KREW-146f51a7c11780c3a6bfc1b72e9fd65e?pvs=4)에서 확인해보세요! 🚀✨
+
+---
+
 ## 🧑 팀 소개
 
 | 역할             | 이름 | 관심 분야 |
