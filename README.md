@@ -33,6 +33,20 @@ _"Beyond First PR"_
 - Improve various Hugging Face libraries, such as `transformers`, `smolagent`, and more!
 - Expand contributions beyond Hugging Face libraries to external dependencies like `LangChain`, `MLflow`, `llama.cpp`, and others!
 
+## 🤗 Hugging Face KREW
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d1d5b315-a670-46a6-ab5e-3201b394fa30" width="200">
+</div>
+
+
+**Hugging Face KREW** is the **research team of Pseudo Lab**, actively engaging in various study sessions and contribution activities related to Hugging Face. 🤗
+In this 10th cohort, we are working on the following projects:
+- [**Hugging Face Beyond First PR**](https://github.com/Pseudo-Lab/Hugging-Face-Beyond-First-PR?tab=readme-ov-file)  
+- [**Hugging Face Hub Garden**](https://github.com/Pseudo-Lab/Hugging-Face-Hub-Garden)
+- [**Hugging Face Cookbook Class Wars**](https://github.com/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars)
+
+If you want to learn more about Hugging Face KREW, check out [this link](https://calm-book-46f.notion.site/Hugging-Face-KREW-146f51a7c11780c3a6bfc1b72e9fd65e?pvs=4)! 🚀✨
 
 ## 🧑 Team
 
