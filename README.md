@@ -52,9 +52,9 @@ gantt
     Major Contribution Phase             :a3, after a2, 30d
     Advanced Contribution & Deep Dives   :a4, after a3, 30d
     section Additional Activities
-    Pseudo-Con Preparation               :b1, 2025-05-03, 14d
-    Pseudo-Con                           :b2, after b1, 8d
-    Season Wrap-up & Retrospective       :2025-06-14, 10d
+    Pseudo-Con Preparation               :b1, 2025-05-03, 16d
+    Pseudo-Con                           :b2, after b1, 10d
+    Wrap-up       :2025-06-14, 8d
 ```
 
 
@@ -63,14 +63,14 @@ gantt
 class CollaborationFramework:
     def __init__(self):
         self.tools = {
-            'communication': 'Google Meet', 'Notion',
+            'communication': 'Discord', 'Notion',
             'documentation': 'Notion',
             'version_control': 'GitHub Projects'
         }
     
     def workflow(self):
         return """Weekly Workflow:
-        1️⃣ Meeting (Monday, 9 PM): Review weekly progress and share updates
+        1️⃣ Meeting (Monday, 9 ~ 11 PM): Review weekly progress and share updates
         2️⃣ To-Do: Discuss and align on tasks for the week
         3️⃣ Contributions & Code Review: Work on contributions and review code"""
 ```
