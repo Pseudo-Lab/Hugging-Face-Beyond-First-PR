@@ -108,8 +108,6 @@ class CollaborationFramework:
 - **온라인: Room-GH, 매주 월요일 오후 9시**
 - **첫 모임(3/10)은 대면 진행될 수 있음, 오후 9시 예정**
   
----
-
 ## 💡 학습 자료
 - [First Contributions](https://github.com/firstcontributions/first-contributions): 오픈소스 첫 기여를 위한 가이드  
 - [Transformers (GitHub)](https://github.com/huggingface/transformers): Hugging Face의 NLP 라이브러리  
