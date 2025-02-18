@@ -54,9 +54,9 @@ gantt
     주요 기여 단계               :a3, after a2, 30d
     심화 기여 및 기술 탐구        :a4, after a3, 30d
     section 추가 활동
-    Pseudo-Con 준비 기간         :b1, 2025-05-03, 14d
-    Pseudo-Con                   :b2, after b1, 8d
-    시즌 마무리 & 회고           :2025-06-14, 10d
+    Pseudo-Con 준비 기간         :b1, 2025-05-03, 16d
+    Pseudo-Con                   :b2, after b1, 10d
+    시즌 마무리           :2025-06-14, 8d
 ```
 
 ---
@@ -66,14 +66,14 @@ gantt
 class CollaborationFramework:
     def __init__(self):
         self.tools = {
-            'communication': 'Google Meet', 'Notion',
+            'communication': 'Discord', 'Notion',
             'documentation': 'Notion',
             'version_control': 'GitHub Projects'
         }
     
     def workflow(self):
         return """주간 개발 프로세스:
-        1️⃣ 회의 (월요일, 오후 9시): 진행 상황 공유 및 리뷰
+        1️⃣ 회의 (월요일, 오후 9 ~ 11시): 진행 상황 공유 및 리뷰
         2️⃣ 할 일 정리: 주간 계획 및 과제 정리
         3️⃣ 기여 & 코드 리뷰: 코드 기여 및 리뷰 진행"""
 ```
@@ -115,7 +115,7 @@ class CollaborationFramework:
 ## 👋 Pseudo-Lab 소개
 
 [Pseudo-Lab](https://pseudo-lab.com/)은 **비영리 단체**로, 머신러닝 및 AI 기술 발전을 목표로 합니다.  
-우리는 **공유(Sharing), 동기부여(Motivation), 협업의 즐거움(Collaborative Joy)**을 핵심 가치로 삼아,  
+우리는 공유(Sharing), 동기부여(Motivation), 협업의 즐거움(Collaborative Joy)을 핵심 가치로 삼아,  
 5,000명 이상의 연구자와 함께 의미 있는 오픈소스 프로젝트를 만들어가고 있습니다. 🚀  
 
 ---
